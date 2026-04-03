@@ -4,5 +4,8 @@ theme: minima
 url: "https://agenticmissionsoftware.github.io"
 baseurl: ""
 
+# Only show these pages in the nav header (hides Fortuna legal pages)
+header_pages: []
+
 # Build settings
 markdown: kramdown
