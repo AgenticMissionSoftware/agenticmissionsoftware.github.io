@@ -1,0 +1,8 @@
+title: Agentic Mission Software
+description: Building agentic software for the future.
+theme: minima
+url: "https://agenticmissionsoftware.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
